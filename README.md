@@ -5,12 +5,10 @@
 ### Struktur Data
 
 1. Atribut
-
-   * Nilai UAS
+* Nilai UAS
 
 2. Class / Label
-
-   * Nilai UN   
+* Nilai UN   
 
 
 ### Screenshot Aplikasi
